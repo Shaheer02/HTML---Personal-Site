@@ -1,1 +1,1 @@
-## This is a personal site I made solely to learn and practice HTML
+## This is a personal website I made solely to learn and practice HTML
